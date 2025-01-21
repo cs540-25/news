@@ -1,13 +1,5 @@
 
        
-# Class 2: 
-   - Please accept invite to the cs540-25 org on github
---   - Pick a paper to present and note at https://github.com/cs540-25/papers/issues/1
---   - Also, please get login at formerly known ACF (https://www.nics.utk.edu/account-requests)
---   - If you have not done so register at https://github.com/woc-hack/tutorial
---   - And schedule your presentation at https://github.com/cs540-25/papers/issues/2
---   - We will go over WoC tutorial today
-   --
    
 # Class 1: 
 
