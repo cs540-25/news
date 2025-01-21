@@ -8,7 +8,13 @@
      in a pull request to repo cs540-25/students
    - Specifically, tell what kind of software engineering research
      you want to review and what type of software development tool
-     or research you'd like to work in your class project. 	 
+     or research you'd like to work in your class project.
+   - make sure that you specify on a separate linese
+```
+netid: YourNetId
+ghid: Your github id
+name: Your first and last name
+``` 
     
 # Syllabus and News for CS594/690: Advanced Software Engineering
 
