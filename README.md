@@ -20,7 +20,7 @@ name: Your first and last name
 
 * **Course:** [COSCS-540]
 * ** TuTh 09:45AM-11:00 mk622 and online Zoom bridge https://tennessee.zoom.us/j/86089126911 ** 
-** [recordings]()
+** [recordings](https://drive.google.com/drive/folders/1N0DH4_UUuO3c0ubC14zeqEywJHjNg6iZ?usp=sharing)
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours - on request
 * **TA** [Shrestha, Shayana <sshres25@vols.utk.edu>](sshres25@vols.utk.edu) office hours - TBD
 
