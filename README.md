@@ -1,6 +1,8 @@
 
-       
-   
+# Class 2:
+  - Finish going over introductions
+  - Starting project pitches
+     
 # Class 1: 
 
    - Please describe who you are, your research interests, and what
