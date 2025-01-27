@@ -1,4 +1,7 @@
-
+# Class 3:
+  - Jan 27, 17:00 still waiting for PRs from: aweis3 cshen8 gelkhoda jmaupin4 jvenkat1 jwill521 kaloofey kneupan1 mjone205 mmilam8 nupadhy3 oabdelra rbeach3 rchennai sjayapra spate200 suppalap sydlwils tsomani vsankara
+  - Lecture on SW engineering basics
+   
 # Class 2:
   - Finish going over introductions
   - Starting project pitches
