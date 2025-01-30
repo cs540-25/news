@@ -2,12 +2,15 @@
 Here is the class Discord Server: https://discord.gg/vW7p9M7H. Link will expire on 02/06/2025.
 
 ----
-
+# Class 5:
+  - Finalize paper and project selections 
+  - Finish software measurement
+    
 # Class 4:
   - Project/paper pitches
   - Software measurement
   - no PR: kaloofey, suppalap,tsomani
-  - rchennai - empty
+  
     
 # Class 3:
   - Jan 28, 13:00 still waiting for PRs from: jwill521 kaloofey mmilam8 oabdelra rchennai suppalap tsomani
