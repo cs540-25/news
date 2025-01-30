@@ -1,7 +1,7 @@
 # Class 4:
   - Project/paper pitches
   - Software measurement
-  - no PR: kaloofey, oabdelra,suppalap,tsomani
+  - no PR: kaloofey, suppalap,tsomani
   - rchennai - empty
     
 # Class 3:
