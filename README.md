@@ -1,6 +1,8 @@
 # Class 4:
   - Project/paper pitches
   - Software measurement
+  - no PR: kaloofey, oabdelra,suppalap,tsomani
+  - rchennai - empty
     
 # Class 3:
   - Jan 28, 13:00 still waiting for PRs from: jwill521 kaloofey mmilam8 oabdelra rchennai suppalap tsomani
