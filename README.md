@@ -20,15 +20,15 @@ Here is the class Discord Server: https://discord.gg/vW7p9M7H. Link will expire 
 # Class 5 - Feb 4:
   - Finalize paper selections 
   - Continue with software measurement
+  - Feb 1, 15:20  no PR: kaloofey, suppalap
     
 # Class 4 - Jan 30:
   - Project/paper pitches
   - Software measurement
-  - no PR: kaloofey, suppalap,tsomani
+
   
     
 # Class 3:
-  - Jan 28, 13:00 still waiting for PRs from: jwill521 kaloofey mmilam8 oabdelra rchennai suppalap tsomani
   - Lecture on SW engineering basics
    
 # Class 2:
