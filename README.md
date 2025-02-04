@@ -20,7 +20,7 @@ Here is the class Discord Server: https://discord.gg/vW7p9M7H. Link will expire 
 # Class 5 - Feb 4:
   - Finalize paper selections 
   - Continue with software measurement
-  - Feb 1, 15:20  no PR: kaloofey, suppalap
+  - Feb 1, 15:20  no PR: kaloofey
     
 # Class 4 - Jan 30:
   - Project/paper pitches
