@@ -15,6 +15,7 @@ Here is the class Discord Server: https://discord.gg/vW7p9M7H. Link will expire 
   - Finalize project selection
 
 # Class 6 - Feb 6:
+  - James Shastid: no ghid 157822336
   - Finish software measurement
     
 # Class 5 - Feb 4:
