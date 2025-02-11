@@ -7,7 +7,7 @@ Here is the class Discord Server: https://discord.gg/vW7p9M7H. Link will expire 
 
 # Class 9 - Feb 15:
   - Only for those who still do not have final project selected
-  - [Project proposal instrctions](https://github.com/cs540-25/projects/blob/master/proposal.pdf)
+  - [Project proposal instructions](https://github.com/cs540-25/projects/blob/master/proposal.pdf)
     
 # Class 8 - Feb 13:
   - Lecture
