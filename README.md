@@ -3,10 +3,11 @@ Here is the class Discord Server: https://discord.gg/vW7p9M7H. Link will expire 
 
 ----
 # Class 10-11 - Feb 18-20:
-   - Work on project proposals 
+   - Work on project proposals (no lecture)
 
 # Class 9 - Feb 15:
-  - Lecture
+  - Only for those who still do not have final project selected
+  - [Project proposal instrctions](https://github.com/cs540-25/projects/blob/master/proposal.pdf)
     
 # Class 8 - Feb 13:
   - Lecture
