@@ -10,7 +10,7 @@ Here is the class Discord Server: https://discord.gg/vW7p9M7H. Link will expire 
   - [Project proposal instructions](https://github.com/cs540-25/projects/blob/master/proposal.pdf)
     
 # Class 8 - Feb 13:
-  - Lecture
+  - smitp2003, wouyang2, smitp2003 have not accepted cs540-25 invitation
 
 # Class 7 - Feb 11:
   - Finalize project selection
