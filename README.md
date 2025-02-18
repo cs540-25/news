@@ -4,6 +4,7 @@ Here is the class Discord Server: https://discord.gg/vW7p9M7H. Link will expire 
 ----
 # Class 12 - Feb 25
     - Paper: On Designing and Deploying Internet-Scale Services
+    - Paper: GELLO Teleoperation
     - Selected proposals
     
 # Class 10-11 - Feb 18-20:
