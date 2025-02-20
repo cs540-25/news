@@ -9,6 +9,9 @@ Here is the class Discord Server: https://discord.gg/vW7p9M7H. Link will expire 
     
 # Class 10-11 - Feb 18-20:
    - Work on project proposals (no lecture)
+   - a) create a repository for your project
+   - b) please create your proposal (2-3 pages in IEEE two-column format) and
+   - c) please put it in you project's repo 
 
 # Class 9 - Feb 15:
   - Only for those who still do not have final project selected
