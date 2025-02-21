@@ -6,7 +6,7 @@ Here is the class Discord Server: https://discord.gg/vW7p9M7H. Link will expire 
     - Paper: On Designing and Deploying Internet-Scale Services
     - Paper: GELLO Teleoperation
     - Paper: Comparison of Machine Learning Algorithms in Data classification
-    - Selected proposals
+    - Project proposals due
     
 # Class 10-11 - Feb 18-20:
    - Work on project proposals (no lecture)
