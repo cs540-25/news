@@ -2,6 +2,9 @@
 Here is the class Discord Server: https://discord.gg/vW7p9M7H. Link will expire on 02/06/2025.
 
 ----
+# March 6
+    - RustBelt: Securing the Foundations of the Rust Programming Language 
+
 # Class 13, 14 - Feb 27, March 4
     - Work on projects: no lecture
 
