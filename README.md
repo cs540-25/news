@@ -1,5 +1,5 @@
 # Discord Server
-Here is the class Discord Server: https://discord.gg/vW7p9M7H. Link expired on 02/06/2025.
+Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-expired link.
 
 ----
 # March 6
