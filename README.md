@@ -7,10 +7,11 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
     - Title: An Efficient Performance Testing of Web Services
 
 # March 14
+   - Title:
    - Scrum for project progress
 
-# March 12
-   - Title: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code
+# March 11
+   - Title: How is Google using AI for internal code migrations?
    - Scrum for project progress
 
 # March 6
