@@ -2,6 +2,17 @@
 Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-expired link.
 
 ----
+# March 25:
+    - Title: How much does AI impact development speed? An enterprise-based randomized controlled trial
+    - Title: An Efficient Performance Testing of Web Services
+
+# March 14
+   - Scrum for project progress
+
+# March 12
+   - Title: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code
+   - Scrum for project progress
+
 # March 6
     - RustBelt: Securing the Foundations of the Rust Programming Language 
     - Investigating Efficacy of Perplexity in Detecting LLM-Generated Code
