@@ -6,7 +6,7 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
     - Title: How much does AI impact development speed? An enterprise-based randomized controlled trial
     - Title: An Efficient Performance Testing of Web Services
 
-# March 14
+# March 13
    - Title:
    - Scrum for project progress
 
