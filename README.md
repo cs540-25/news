@@ -8,12 +8,10 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
 
 # March 13
    - Title:Fuzzy Utility AI for Handling Uncertainty in Video Game Bots Implementation
-   - Fuzzy Utility AI for Handling Uncertainty in Video Game Bots Implementation
    - Scrum for project progress
 
 # March 11
    - Title: How is Google using AI for internal code migrations?
-   - How is Google using AI for internal code migrations?
    - Scrum for project progress
 
 # March 6
