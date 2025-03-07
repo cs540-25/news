@@ -8,6 +8,7 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
 
 # March 13
    - Title:Fuzzy Utility AI for Handling Uncertainty in Video Game Bots Implementation
+   - Advancements of PAPI for the exascale generation
    - Scrum for project progress
 
 # March 11
