@@ -5,10 +5,10 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
 # March 25:
     - Title: How much does AI impact development speed? An enterprise-based randomized controlled trial
     - Title: An Efficient Performance Testing of Web Services
+    - Title: Advancements of PAPI for the exascale generation
 
 # March 13
    - Title:Fuzzy Utility AI for Handling Uncertainty in Video Game Bots Implementation
-   - Advancements of PAPI for the exascale generation
    - Scrum for project progress
 
 # March 11
