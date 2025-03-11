@@ -9,7 +9,7 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
 
 # March 13
    - Title:Fuzzy Utility AI for Handling Uncertainty in Video Game Bots Implementation
-   - Quantum Software Development Lifecycle
+   - Title: Quantum Software Development Lifecycle
    - Scrum for project progress
 
 # March 11
