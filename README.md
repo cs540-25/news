@@ -6,9 +6,10 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
     - Title: How much does AI impact development speed? An enterprise-based randomized controlled trial
     - Title: An Efficient Performance Testing of Web Services
     - Title: Advancements of PAPI for the exascale generation
+    - Title: LLM testing for simulating human testing
 
 # March 13
-   - Title:Fuzzy Utility AI for Handling Uncertainty in Video Game Bots Implementation
+   - Title: Fuzzy Utility AI for Handling Uncertainty in Video Game Bots Implementation
    - Title: Quantum Software Development Lifecycle
    - Scrum for project progress
 
