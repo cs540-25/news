@@ -3,9 +3,11 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
 
 ----
 # April 3:
+   - Title: Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers
    - Title: Generative AI and the Nature of Work
    - Title: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
    - Title: Code Coverage and Test Automation: State of the Art
+   
 
 # April 1
    - Title: 
