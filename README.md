@@ -18,10 +18,10 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
 
 
 # March 25:
-    - Title: How much does AI impact development speed? An enterprise-based randomized controlled trial
-    - Title: An Efficient Performance Testing of Web Services
-    - Title: Advancements of PAPI for the exascale generation
-    - Title: LLM testing for simulating human testing
+   - Title: How much does AI impact development speed? An enterprise-based randomized controlled trial
+   - Title: An Efficient Performance Testing of Web Services
+   - Title: Advancements of PAPI for the exascale generation
+   - Title: LLM testing for simulating human testing
 
 # March 13
    - Title: Fuzzy Utility AI for Handling Uncertainty in Video Game Bots Implementation
@@ -33,17 +33,17 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
    - Scrum for project progress
 
 # March 6
-    - RustBelt: Securing the Foundations of the Rust Programming Language 
-    - Investigating Efficacy of Perplexity in Detecting LLM-Generated Code
+   - RustBelt: Securing the Foundations of the Rust Programming Language 
+   - Investigating Efficacy of Perplexity in Detecting LLM-Generated Code
 
 # Class 13, 14 - Feb 27, March 4
-    - Work on projects: no lecture
+   - Work on projects: no lecture
 
 # Class 12 - Feb 25
-    - Paper: On Designing and Deploying Internet-Scale Services
-    - Paper: GELLO Teleoperation
-    - Paper: Comparison of Machine Learning Algorithms in Data classification
-    - Project proposals due
+   - Paper: On Designing and Deploying Internet-Scale Services
+   - Paper: GELLO Teleoperation
+   - Paper: Comparison of Machine Learning Algorithms in Data classification
+   - Project proposals due
     
 # Class 10-11 - Feb 18-20:
    - Work on project proposals (no lecture)
