@@ -3,18 +3,18 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
 
 ----
 # April 3:
-    - Title: Generative AI and the Nature of Work
-    - Title: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
-    - Title: Code Coverage and Test Automation: State of the Art
+   - Title: Generative AI and the Nature of Work
+   - Title: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+   - Title: Code Coverage and Test Automation: State of the Art
 
 # April 1
-    - Title: 
+   - Title: 
 
 # March 27:
-    - Title: Evaluating Agent-based Program Repair at Google
-    - Title: Game Engine Architecture and Comparative Study of Different Game Engines
-    - Title: Cyber Sentinel: Exploring Conversational Agents Role in Streamlining Security Tasks with GPT-4
-    - Title: Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects
+   - Title: Evaluating Agent-based Program Repair at Google
+   - Title: Game Engine Architecture and Comparative Study of Different Game Engines
+   - Title: Cyber Sentinel: Exploring Conversational Agents Role in Streamlining Security Tasks with GPT-4
+   - Title: Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects
 
 
 # March 25:
