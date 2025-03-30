@@ -2,6 +2,9 @@
 Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-expired link.
 
 ----
+# April 10:
+   - Title: Efficient regression algorithms for classification of social media data
+
 # April 8:
    - Title: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
 
@@ -10,7 +13,6 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
    - Title: Generative AI and the Nature of Work
    - Title: Code Coverage and Test Automation: State of the Art
    
-
 # April 1
    - Title: 
 
