@@ -7,6 +7,7 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
 
 # April 8:
    - Title: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+   - Title: TestForge: Feedback-Driven, Agentic Test Suite Generation.
 
 # April 3:
    - Title: Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers
