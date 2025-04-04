@@ -1,6 +1,10 @@
 # Discord Server
 Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-expired link.
 
+# Regarding paper presentations
+
+Please incude/correct the link to your paper presentation!
+
 ---
 
 
@@ -33,8 +37,8 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
 
 # April 3:
    - Title: Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers
-   - Title: Generative AI and the Nature of Work
-   - Title: Code Coverage and Test Automation: State of the Art
+   - Title: [Generative AI and the Nature of Work](https://github.com/cs540-25/Competitive-Rating-Systems/raw/refs/heads/main/540%20Paper%20Presentation.pptx)
+   - Title: [Code Coverage and Test Automation: State of the Art](https://github.com/cs540-25/LLM-basic-blocks/blob/main/paper_presentation.pdf)
    
 # April 1
    - Title: 
@@ -43,13 +47,13 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
    - Title: Evaluating Agent-based Program Repair at Google
    - Title: Game Engine Architecture and Comparative Study of Different Game Engines
    - Title: Cyber Sentinel: Exploring Conversational Agents Role in Streamlining Security Tasks with GPT-4
-   - Title: Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects
+   - Title: [Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects](https://github.com/cs540-25/papers/blob/main/Finding%20a%20Needle%20in%20a%20Haystack_%20Threat%20Analysis%20in%20Open-Source%20Projects.pptx)
 
 
 # March 25:
-   - Title: How much does AI impact development speed? An enterprise-based randomized controlled trial
+   - Title: [How much does AI impact development speed? An enterprise-based randomized controlled trial](https://github.com/cs540-25/Ai-On-Dev-Speed/raw/refs/heads/main/540%20Presentation.pptx)
    - Title: An Efficient Performance Testing of Web Services
-   - Title: Advancements of PAPI for the exascale generation
+   - Title: [Advancements of PAPI for the exascale generation](https://github.com/cs540-25/Perfvis/raw/refs/heads/main/CS540%20Paper%20Presentation.pptx)
    - Title: LLM testing for simulating human testing
 
 # March 13
@@ -62,8 +66,8 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
    - Scrum for project progress
 
 # March 6
-   - RustBelt: Securing the Foundations of the Rust Programming Language 
-   - Investigating Efficacy of Perplexity in Detecting LLM-Generated Code
+   - [RustBelt: Securing the Foundations of the Rust Programming Language](https://github.com/cs540-25/verus/blob/main/COSC%20540%20Research%20Paper%20Presentation.pdf)
+   - [Investigating Efficacy of Perplexity in Detecting LLM-Generated Code](https://github.com/cs540-25/LLM-Code-Security/blob/main/DetectLLMCode-PaperPresentation.pdf)
 
 # Class 13, 14 - Feb 27, March 4
    - Work on projects: no lecture
