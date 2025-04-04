@@ -17,7 +17,7 @@ Please incude/correct the link to your paper presentation!
      - Results
      - Limitations sucha as [internal, external](https://www.cse.chalmers.se/~feldt/publications/feldt_2010_validity_threats_in_ese_initial_survey.pdf), [construct](https://dl.acm.org/doi/abs/10.1145/3593434.3593449) validity and future work
      - Conclusions
-  - Reports need to have [structured abstract](https://www.nlm.nih.gov/bsd/policy/structured_abstracts.html)
+  - Reports need to have a [structured abstract](https://www.nlm.nih.gov/bsd/policy/structured_abstracts.html)
 
 ---
 
