@@ -1,7 +1,19 @@
 # Discord Server
 Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-expired link.
 
-----
+---
+# Apr 29, May 1, 6
+  - Presentation on class research project, report due May 7
+  - Reports (in the format of proposals) and presentations should inform on
+     - Motivation, related work, identification of research gaps
+     - Research questions
+     - Detailed method, including why appropriate for the RQs, why various choices were made
+     - Results
+     - Limitations sucha as [internal, external](https://www.cse.chalmers.se/~feldt/publications/feldt_2010_validity_threats_in_ese_initial_survey.pdf), [construct](https://dl.acm.org/doi/abs/10.1145/3593434.3593449) validity and future work
+     - Conclusions
+  - Reports need to have [structured abstract](https://www.nlm.nih.gov/bsd/policy/structured_abstracts.html)
+
+---
 # April 10:
    - Title: Efficient regression algorithms for classification of social media data
 
