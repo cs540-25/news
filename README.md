@@ -2,7 +2,9 @@
 Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-expired link.
 
 ---
-# Apr 29, May 1, 6
+
+
+# Apr 24, 29; May 1, 6
   - Presentation on class research project, report due May 7
   - Reports (in the format of proposals) and presentations should inform on
      - Motivation, related work, identification of research gaps
@@ -14,8 +16,16 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
   - Reports need to have [structured abstract](https://www.nlm.nih.gov/bsd/policy/structured_abstracts.html)
 
 ---
+
+# Apr 22
+   - Workshop on related work
+
+# Apr 15
+   - Workshop on strucured abstract
+
 # April 10:
    - Title: Efficient regression algorithms for classification of social media data
+   - Workshop on threats to validity
 
 # April 8:
    - Title: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
