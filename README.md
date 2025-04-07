@@ -36,7 +36,7 @@ Please incude/correct the link to your paper presentation!
    - Title: TestForge: Feedback-Driven, Agentic Test Suite Generation.
 
 # April 3:
-   - Title: Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers
+   - Title: [Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers](https://github.com/cs540-25/HumanVsGenAI/blob/main/CS540%20Paper%20Presentation.pdf)
    - Title: [Generative AI and the Nature of Work](https://github.com/cs540-25/Competitive-Rating-Systems/raw/refs/heads/main/540%20Paper%20Presentation.pptx)
    - Title: [Code Coverage and Test Automation: State of the Art](https://github.com/cs540-25/LLM-basic-blocks/blob/main/paper_presentation.pdf)
    
