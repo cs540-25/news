@@ -33,7 +33,7 @@ Please incude/correct the link to your paper presentation!
    - Workshop on threats to validity
 
 # April 8:
-   - Title: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+   - Title: [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/cs540-25/papers/blob/main/DeepSeek%20R1%20Paper.pdf)
    - Title: TestForge: Feedback-Driven, Agentic Test Suite Generation.
 
 # April 3:
