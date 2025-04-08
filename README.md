@@ -9,6 +9,7 @@ Please incude/correct the link to your paper presentation!
 
 
 # Apr 24, 29; May 1, 6
+  - Please [schedule research presentation](https://github.com/cs540-25/projects/issues/9)
   - Presentation on class research project, report due May 7
   - Reports (in the format of proposals) and presentations should inform on
      - Motivation, related work, identification of research gaps
