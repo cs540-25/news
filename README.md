@@ -34,6 +34,7 @@ Please incude/correct the link to your paper presentation!
    - LLM Code Security
 
 # Apr 29
+   - AI on Dev Speed
 
 # Apr 24
    - optiML
