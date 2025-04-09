@@ -32,6 +32,7 @@ Please incude/correct the link to your paper presentation!
 # May 1
    - LLM-Code-Analysis
    - LLM Code Security
+   - LLM User Testing
 
 # Apr 29
    - AI on Dev Speed
