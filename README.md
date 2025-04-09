@@ -21,6 +21,22 @@ Please incude/correct the link to your paper presentation!
   - Reports need to have a [structured abstract](https://www.nlm.nih.gov/bsd/policy/structured_abstracts.html)
 
 ---
+# May 6 - schedule full
+   - An experimental, STLC-based alternative programming language to MISRA-C or CompCert
+   - Non-player Character (NPC) Behavior in Video Games
+   - An Analysis of Automated vs. Manual Feature Engineering
+   - Competitive Rating Systems
+   - CodeSynapse
+   - Shekar - A Python library for Persian NLP
+
+# May 1
+   - LLM-Code-Analysis
+   - LLM Code Security
+
+# Apr 29
+
+# Apr 24
+   - optiML
 
 # Apr 22
    - Workshop on related work
