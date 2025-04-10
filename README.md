@@ -39,9 +39,11 @@ Please incude/correct the link to your paper presentation!
 
 # Apr 29
    - AI on Dev Speed
+   - A Modular Architecture for GitHub Security Key Collection
 
 # Apr 24
    - optiML
+   - HPC Performance Visualization: A Web-Based Toolkit for Enhanced Performance Analytics
 
 # Apr 22
    - Workshop on related work
