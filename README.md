@@ -35,6 +35,7 @@ Please incude/correct the link to your paper presentation!
    - LLM User Testing
    - HumanVsGenAI: AI Code Detection Performance in Educational Programming Tasks
    - Backend Framework Analysis
+   - Efficient regression algorithms for classification of social media data
 
 # Apr 29
    - AI on Dev Speed
@@ -51,6 +52,7 @@ Please incude/correct the link to your paper presentation!
 
 # April 10:
    - Title: Efficient regression algorithms for classification of social media data
+   - 
    - Workshop on threats to validity
 
 # April 8:
