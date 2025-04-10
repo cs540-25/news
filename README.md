@@ -51,13 +51,13 @@ Please incude/correct the link to your paper presentation!
    - Workshop on strucured abstract
 
 # April 10:
-   - Title: Efficient regression algorithms for classification of social media data
-   - 
+   - Title: [Efficient regression algorithms for classification of social media data](https://docs.google.com/presentation/d/1DhR1_JdCSyfuJ-fxDpzvBdyTjpsr8w4Ca4vLB9g5qvI/edit?usp=sharing)
+   - Title: [Predicting customer churn](https://github.com/cs540-25/Customer_Churn/blob/main/Paper%20Presentation%20Adv_Software_Engineering.pptx)
    - Workshop on threats to validity
 
 # April 8:
    - Title: [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/cs540-25/papers/blob/main/DeepSeek%20R1%20Paper.pdf)
-   - Title: TestForge: Feedback-Driven, Agentic Test Suite Generation.
+   - Title: [TestForge: Feedback-Driven, Agentic Test Suite Generation](https://github.com/user-attachments/files/19650621/TestForge.pptx)
 
 # April 3:
    - Title: [Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers](https://github.com/cs540-25/HumanVsGenAI/blob/main/CS540%20Paper%20Presentation.pdf)
