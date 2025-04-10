@@ -33,6 +33,8 @@ Please incude/correct the link to your paper presentation!
    - LLM-Code-Analysis
    - LLM Code Security
    - LLM User Testing
+   - HumanVsGenAI: AI Code Detection Performance in Educational Programming Tasks
+   - Backend Framework Analysis
 
 # Apr 29
    - AI on Dev Speed
@@ -44,6 +46,7 @@ Please incude/correct the link to your paper presentation!
    - Workshop on related work
 
 # Apr 15
+   - Security Risk of Porting C Programs to WebAssembly
    - Workshop on strucured abstract
 
 # April 10:
