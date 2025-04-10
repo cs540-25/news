@@ -29,7 +29,7 @@ Please incude/correct the link to your paper presentation!
    - CodeSynapse
    - Shekar - A Python library for Persian NLP
 
-# May 1
+# May 1 - schedule full
    - LLM-Code-Analysis
    - LLM Code Security
    - LLM User Testing
