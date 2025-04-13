@@ -45,6 +45,7 @@ Please incude/correct the link to your paper presentation!
 # Apr 24
    - optiML
    - HPC Performance Visualization: A Web-Based Toolkit for Enhanced Performance Analytics
+   - 5G-Enabled Drone with Edge Computing 
 
 # Apr 22
    - Workshop on related work
