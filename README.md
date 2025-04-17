@@ -37,11 +37,13 @@ Please incude/correct the link to your paper presentation!
    - Backend Framework Analysis
    - Efficient regression algorithms for classification of social media data
 
-# Apr 29
+# Apr 29 - schedule full
    - AI on Dev Speed
    - A Modular Architecture for GitHub Security Key Collection
    - Comparison of Unity and Godot Using Mario
    - Quantum Software Development Analysis
+   - Methods in Collision Detection
+   - WebAssembly vs javaScript
 
 # Apr 24
    - optiML
