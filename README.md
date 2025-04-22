@@ -62,8 +62,8 @@ Please incude/correct the link to your paper presentation!
    - Workshop on related work
 
 # Apr 15
-   - Security Risk of Porting C Programs to WebAssembly
-   - Playability: analysing user experience in video games
+   - Title: Security Risk of Porting C Programs to WebAssembly
+   - Title: Playability: analysing user experience in video games
    - Workshop on strucured abstract
 
 # April 10:
