@@ -37,7 +37,7 @@ Please incude/correct the link to your paper presentation!
    - Backend Framework Analysis
    - Efficient regression algorithms for classification of social media data
 
-# Apr 29 - schedule full
+# Apr 29 - one slot available
    - AI on Dev Speed
    - A Modular Architecture for GitHub Security Key Collection
    - Comparison of Unity and Godot Using Mario
@@ -48,16 +48,16 @@ Please incude/correct the link to your paper presentation!
 # Apr 24 - projects with ? are ones I could not match ??
    - optiML
    - HPC Performance Visualization: A Web-Based Toolkit for Enhanced Performance Analytics
-   - 5G-Enabled Drone with Edge Computing
+   - Cyber Sentinel: AI-Powered Cybersecurity Automation
    - ?AI-Based Customer Churn Prediction
    - ?Aspects of User Content Regression Algorithms
    - ?LLM-basic-blocks: Can LLMs write tests for uncovered basic blocks?
    - ?Cross-Language Code Translation with LLMs: A Comparative Study of Accuracy Across Paradigms
-   - ?Cyber Sentinel: AI-Powered Cybersecurity Automation
    - ?Board Game to Video Game
 
 
 # Apr 22
+   - 5G-Enabled Drone with Edge Computing
    - Workshop on related work
 
 # Apr 15
