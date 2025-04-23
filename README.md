@@ -50,7 +50,7 @@ Please incude/correct the link to your paper presentation!
    - optiML
    - HPC Performance Visualization: A Web-Based Toolkit for Enhanced Performance Analytics
    - Cyber Sentinel: AI-Powered Cybersecurity Automation
-   - ?AI-Based Customer Churn Prediction
+   - Customer churn using Ai chat bot
    - ?Aspects of User Content Regression Algorithms
    - ?LLM-basic-blocks: Can LLMs write tests for uncovered basic blocks?
    - ?Cross-Language Code Translation with LLMs: A Comparative Study of Accuracy Across Paradigms
