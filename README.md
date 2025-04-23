@@ -21,7 +21,7 @@ Please incude/correct the link to your paper presentation!
   - Reports need to have a [structured abstract](https://www.nlm.nih.gov/bsd/policy/structured_abstracts.html)
 
 ---
-# May 6 - schedule full
+# May 6 - schedule full - 10m per presentation
    - An experimental, STLC-based alternative programming language to MISRA-C or CompCert
    - Non-player Character (NPC) Behavior in Video Games
    - An Analysis of Automated vs. Manual Feature Engineering
@@ -29,7 +29,7 @@ Please incude/correct the link to your paper presentation!
    - CodeSynapse
    - Shekar - A Python library for Persian NLP
 
-# May 1 - schedule full
+# May 1 - schedule full - 10m per presentation
    - LLM-Code-Analysis
    - LLM Code Security
    - LLM User Testing
@@ -37,7 +37,7 @@ Please incude/correct the link to your paper presentation!
    - Backend Framework Analysis
    - Efficient regression algorithms for classification of social media data
 
-# Apr 29 - full   
+# Apr 29 - schedule full - 10m per presentation
    - AI on Dev Speed
    - A Modular Architecture for GitHub Security Key Collection
    - Comparison of Unity and Godot Using Mario
@@ -46,7 +46,7 @@ Please incude/correct the link to your paper presentation!
    - WebAssembly vs javaScript
 
 
-# Apr 24 - projects with ? are ones I could not match ??
+# Apr 24 - 8m per presentation;  projects with ? are ones I could not match ??
    - optiML
    - HPC Performance Visualization: A Web-Based Toolkit for Enhanced Performance Analytics
    - Cyber Sentinel: AI-Powered Cybersecurity Automation
