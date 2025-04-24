@@ -22,7 +22,6 @@ Please incude/correct the link to your paper presentation!
 
 
 #  Projects with no date for a presentation
-   - ?Aspects of User Content Regression Algorithms
    - ?Cross-Language Code Translation with LLMs: A Comparative Study of Accuracy Across Paradigms
    - ?Board Game to Video Game
 
