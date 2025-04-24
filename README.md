@@ -20,6 +20,12 @@ Please incude/correct the link to your paper presentation!
      - Conclusions
   - Reports need to have a [structured abstract](https://www.nlm.nih.gov/bsd/policy/structured_abstracts.html)
 
+
+#  Projects with no date for a presentation
+   - ?Aspects of User Content Regression Algorithms
+   - ?Cross-Language Code Translation with LLMs: A Comparative Study of Accuracy Across Paradigms
+   - ?Board Game to Video Game
+
 ---
 # May 6 - schedule full - 10m per presentation
    - An experimental, STLC-based alternative programming language to MISRA-C or CompCert
@@ -51,10 +57,7 @@ Please incude/correct the link to your paper presentation!
    - HPC Performance Visualization: A Web-Based Toolkit for Enhanced Performance Analytics
    - Cyber Sentinel: AI-Powered Cybersecurity Automation
    - Customer churn using Ai chat bot
-   - ?Aspects of User Content Regression Algorithms
-   - ?LLM-basic-blocks: Can LLMs write tests for uncovered basic blocks?
-   - ?Cross-Language Code Translation with LLMs: A Comparative Study of Accuracy Across Paradigms
-   - ?Board Game to Video Game
+   - LLM-basic-blocks: Can LLMs write tests for uncovered basic blocks?
 
 
 # Apr 22
