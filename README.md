@@ -23,10 +23,9 @@ Please incude/correct the link to your paper presentation!
 
 #  Projects with no date for a presentation
    - ?Cross-Language Code Translation with LLMs: A Comparative Study of Accuracy Across Paradigms
-   - ?Board Game to Video Game
 
 ---
-# May 6 - schedule full - 10m per presentation
+# May 6 - schedule full - max 10m per presentation
    - An experimental, STLC-based alternative programming language to MISRA-C or CompCert
    - Non-player Character (NPC) Behavior in Video Games
    - An Analysis of Automated vs. Manual Feature Engineering
@@ -34,7 +33,7 @@ Please incude/correct the link to your paper presentation!
    - CodeSynapse
    - Shekar - A Python library for Persian NLP
 
-# May 1 - schedule full - 10m per presentation
+# May 1 - schedule full - max 10m per presentation
    - LLM-Code-Analysis
    - LLM Code Security
    - LLM User Testing
@@ -42,13 +41,14 @@ Please incude/correct the link to your paper presentation!
    - Backend Framework Analysis
    - Efficient regression algorithms for classification of social media data
 
-# Apr 29 - schedule full - 10m per presentation
+# Apr 29 - schedule full - max 9m per presentation
    - AI on Dev Speed
    - A Modular Architecture for GitHub Security Key Collection
    - Comparison of Unity and Godot Using Mario
    - Quantum Software Development Analysis
    - Methods in Collision Detection
-   - WebAssembly vs javaScriptPomo-Pulse
+   - WebAssembly vs javaScript
+   - Board Game To Video Game
 
 
 # Apr 24 - 8m per presentation;  projects with ? are ones I could not match ??
