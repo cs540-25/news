@@ -48,7 +48,7 @@ Please incude/correct the link to your paper presentation!
    - Comparison of Unity and Godot Using Mario
    - Quantum Software Development Analysis
    - Methods in Collision Detection
-   - WebAssembly vs javaScript
+   - WebAssembly vs javaScriptPomo-Pulse
 
 
 # Apr 24 - 8m per presentation;  projects with ? are ones I could not match ??
