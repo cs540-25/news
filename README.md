@@ -45,10 +45,10 @@ Please incude/correct the link to your paper presentation!
    - AI on Dev Speed
    - A Modular Architecture for GitHub Security Key Collection
    - Comparison of Unity and Godot Using Mario
-   - Quantum Software Development Analysis
    - Methods in Collision Detection
    - WebAssembly vs javaScript
    - Board Game To Video Game
+   - Quantum Software Development Analysis
 
 
 # Apr 24 - 8m per presentation;  projects with ? are ones I could not match ??
