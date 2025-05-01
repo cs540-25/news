@@ -3,7 +3,9 @@ Here is the class Discord Server: https://discord.gg/2VdrjhMwy8. Updated to non-
 
 # Regarding paper presentations
 
-Please incude/correct the link to your paper presentation!
+Please incude/correct the link to your paper **AND project** presentation!
+
+Please name final reports in your project repository: FINAL_REPORT_...pdf
 
 ---
 
