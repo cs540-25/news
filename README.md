@@ -101,7 +101,7 @@ Please name final reports in your project repository: FINAL_REPORT_...pdf
    - Title: LLM testing for simulating human testing
 
 # March 13
-   - Title: Fuzzy Utility AI for Handling Uncertainty in Video Game Bots Implementation
+   - Title: [Fuzzy Utility AI for Handling Uncertainty in Video Game Bots Implementation](https://github.com/cs540-25/NPC-Behavior-in-Video-Games/blob/main/CS%20540%20Paper%20Presentation.pdf)
    - Title: Quantum Software Development Lifecycle
    - Scrum for project progress
 
