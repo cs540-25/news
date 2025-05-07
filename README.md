@@ -40,7 +40,7 @@ Please name final reports in your project repository: FINAL_REPORT_...pdf
    - LLM Code Security
    - LLM User Testing
    - HumanVsGenAI: AI Code Detection Performance in Educational Programming Tasks
-   - Backend Framework Analysis
+   - [Backend Framework Analysis](https://github.com/cs540-25/Backend-Framework-Analysis)
    - Efficient regression algorithms for classification of social media data
 
 # Apr 29 - schedule full - max 9m per presentation
