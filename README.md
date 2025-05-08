@@ -33,7 +33,7 @@ Please name final reports in your project repository: FINAL_REPORT_...pdf
    - [An Analysis of Automated vs. Manual Feature Engineering](https://github.com/cs540-25/Manual-versus-Automated-Feature-Engineering/tree/main)
    - [Competitive Rating Systems](https://github.com/cs540-25/Competitive-Rating-Systems/blob/main/540%20Final%20Presentation.pdf)
    - [CodeSynapse](https://github.com/cs540-25/CodeSynapse)
-   - [Shekar - A Python library for Persian NLP](https://github.com/cs540-25/shekar) - [Report](https://github.com/cs540-25/shekar/blob/main/FINAL_REPORT.pdf), [Presentation](https://github.com/cs540-25/shekar/blob/main/FINAL_PRESENTATION.pptx)
+   - [Shekar - A Python library for Persian NLP](https://github.com/cs540-25/shekar) - ( [Report](https://github.com/cs540-25/shekar/blob/main/FINAL_REPORT.pdf), [Presentation](https://github.com/cs540-25/shekar/blob/main/FINAL_PRESENTATION.pptx) )
 
 # May 1 - schedule full - max 10m per presentation
    - LLM-Code-Analysis
