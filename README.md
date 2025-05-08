@@ -32,7 +32,7 @@ Please name final reports in your project repository: FINAL_REPORT_...pdf
    - [Non-player Character (NPC) Behavior in Video Games](https://github.com/cs540-25/NPC-Behavior-in-Video-Games/blob/main/CS%20540%20Final%20Project%20Presentation.pdf)
    - [An Analysis of Automated vs. Manual Feature Engineering](https://github.com/cs540-25/Manual-versus-Automated-Feature-Engineering/tree/main)
    - Competitive Rating Systems
-   - CodeSynapse
+   - [CodeSynapse](https://github.com/cs540-25/CodeSynapse)
    - Shekar - A Python library for Persian NLP
 
 # May 1 - schedule full - max 10m per presentation
