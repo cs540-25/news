@@ -62,7 +62,7 @@ Please name final reports in your project repository: FINAL_REPORT_...pdf
 
 
 # Apr 22
-   - 5G-Enabled Drone with Edge Computing
+   - 5G-Enabled Drone with Edge Computing (https://github.com/cs540-25/5G-Enabled-Drone-with-Edge-Computing/blob/ec5c00fa25bba30362b28dce9eee18f7f25aa2a6/FINAL_PRESENTATION_5G%20Drone.pdf)(https://github.com/cs540-25/5G-Enabled-Drone-with-Edge-Computing/blob/ec5c00fa25bba30362b28dce9eee18f7f25aa2a6/FINAL_REPORT_5G%20Drone%20Paper.pdf)
    - Workshop on related work
 
 # Apr 15
